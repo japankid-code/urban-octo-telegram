@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactor Finished Code
 
 this code was forked and refactored to meet accessibility requirements.
 
